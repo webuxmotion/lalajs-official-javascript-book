@@ -3,15 +3,15 @@
         <div class="header__cells">
             <div class="header__cell">
                 <div class="header__logo">
-                    <a href="/">Super Shop</a>
+                    <a href="/">LALAJS Book</a>
                 </div>
             </div>
             <div class="header__cell">
-                <x-menu tpl="components.menu" />
+                {{-- <x-menu tpl="components.menu" /> --}}
                 
             </div>
             <div class="header__cell">
-                <nav class="header__icons-menu">
+                {{-- <nav class="header__icons-menu">
                     <ul>
                         <li>
                             <a href="">
@@ -44,7 +44,7 @@
                             </a>
                         </li>
                     </ul>
-                </nav>
+                </nav> --}}
             </div>
         </div>
     </div>

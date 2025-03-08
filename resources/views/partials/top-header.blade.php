@@ -3,7 +3,7 @@
         <div class="top-header__cells">
             <div class="top-header__cell">
                 <p class="top-header__description">
-                    Підставки для телефонів та інше для власної продуктивності
+                    The book about learning JavaScript.
                 </p>
             </div>
             <div class="top-header__cell">
