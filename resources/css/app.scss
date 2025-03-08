@@ -1,0 +1,11 @@
+@use './defaults.scss';
+@use './css-vars.scss';
+@use './section.scss';
+@use './top-header.scss';
+@use './google-button.scss';
+@use './header.scss';
+@use './flash-message.scss';
+@use './auth-tabs.scss';
+
+@tailwind base;
+@tailwind utilities;
